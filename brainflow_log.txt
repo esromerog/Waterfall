@@ -1,0 +1,122 @@
+[2022-11-22 13:23:24.708] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 13:23:24.710] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 13:23:24.710] [board_logger] [trace] Board object created 37
+[2022-11-22 13:23:24.743] [board_logger] [debug] Library is loaded
+[2022-11-22 13:23:24.744] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 13:23:24.744] [board_logger] [warning] mac address is not provided, trying to autodiscover device
+[2022-11-22 13:23:24.746] [board_logger] [info] found device f4:0e:11:75:8d:9f
+[2022-11-22 13:23:25.132] [board_logger] [debug] start streaming
+[2022-11-22 13:25:52.023] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 13:25:52.023] [board_logger] [error] Board with id 37 and the same config already exists
+[2022-11-22 13:29:49.383] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 13:29:49.383] [board_logger] [error] Board with id 37 and the same config already exists
+[2022-11-22 13:32:04.540] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 13:32:04.540] [board_logger] [error] Board with id 37 and the same config already exists
+[2022-11-22 13:32:44.773] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 13:32:44.773] [board_logger] [error] Board with id 37 and the same config already exists
+[2022-11-22 13:35:26.544] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 13:35:26.544] [board_logger] [error] Board with id 37 and the same config already exists
+[2022-11-22 13:38:25.171] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 13:38:25.171] [board_logger] [error] Board with id 37 and the same config already exists
+[2022-11-22 13:45:00.014] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F40E11758D9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 13:45:00.014] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 13:45:00.014] [board_logger] [trace] Board object created 37
+[2022-11-22 13:45:00.018] [board_logger] [debug] Library is loaded
+[2022-11-22 13:45:00.018] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 13:45:00.019] [board_logger] [error] failed to open bt connection: -2
+[2022-11-22 13:46:36.691] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 13:46:36.691] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 13:46:36.691] [board_logger] [trace] Board object created 37
+[2022-11-22 13:46:36.694] [board_logger] [debug] Library is loaded
+[2022-11-22 13:46:36.694] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 13:46:37.981] [board_logger] [debug] start streaming
+[2022-11-22 13:48:45.062] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 13:48:45.062] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 13:48:45.062] [board_logger] [trace] Board object created 37
+[2022-11-22 13:48:45.065] [board_logger] [debug] Library is loaded
+[2022-11-22 13:48:45.065] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 13:48:45.646] [board_logger] [debug] start streaming
+[2022-11-22 13:49:26.975] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 13:49:26.975] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 13:49:26.975] [board_logger] [trace] Board object created 37
+[2022-11-22 13:49:26.978] [board_logger] [debug] Library is loaded
+[2022-11-22 13:49:26.978] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 13:49:27.555] [board_logger] [debug] start streaming
+[2022-11-22 13:50:52.611] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 13:50:52.611] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 13:50:52.611] [board_logger] [trace] Board object created 37
+[2022-11-22 13:50:52.614] [board_logger] [debug] Library is loaded
+[2022-11-22 13:50:52.614] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 13:50:52.974] [board_logger] [debug] start streaming
+[2022-11-22 13:51:56.443] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 13:51:56.443] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 13:51:56.443] [board_logger] [trace] Board object created 37
+[2022-11-22 13:51:56.446] [board_logger] [debug] Library is loaded
+[2022-11-22 13:51:56.446] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 13:51:56.796] [board_logger] [debug] start streaming
+[2022-11-22 14:11:14.054] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 14:11:14.054] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 14:11:14.054] [board_logger] [trace] Board object created 37
+[2022-11-22 14:11:14.057] [board_logger] [debug] Library is loaded
+[2022-11-22 14:11:14.057] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 14:11:15.283] [board_logger] [debug] start streaming
+[2022-11-22 14:13:03.111] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 14:13:03.112] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 14:13:03.112] [board_logger] [trace] Board object created 37
+[2022-11-22 14:13:03.114] [board_logger] [debug] Library is loaded
+[2022-11-22 14:13:03.115] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 14:13:03.983] [board_logger] [debug] start streaming
+[2022-11-22 14:13:40.298] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 14:13:40.298] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 14:13:40.298] [board_logger] [trace] Board object created 37
+[2022-11-22 14:13:40.303] [board_logger] [debug] Library is loaded
+[2022-11-22 14:13:40.303] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 14:13:40.902] [board_logger] [debug] start streaming
+[2022-11-22 14:15:05.046] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 14:15:05.046] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 14:15:05.046] [board_logger] [trace] Board object created 37
+[2022-11-22 14:15:05.049] [board_logger] [debug] Library is loaded
+[2022-11-22 14:15:05.049] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 14:15:05.413] [board_logger] [debug] start streaming
+[2022-11-22 14:22:02.235] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 14:22:02.236] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 14:22:02.236] [board_logger] [trace] Board object created 37
+[2022-11-22 14:22:02.238] [board_logger] [debug] Library is loaded
+[2022-11-22 14:22:02.238] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 14:22:02.575] [board_logger] [debug] start streaming
+[2022-11-22 14:24:29.466] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 14:24:29.466] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 14:24:29.466] [board_logger] [trace] Board object created 37
+[2022-11-22 14:24:29.469] [board_logger] [debug] Library is loaded
+[2022-11-22 14:24:29.469] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 14:24:30.259] [board_logger] [debug] start streaming
+[2022-11-22 14:25:03.053] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 14:25:03.053] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 14:25:03.053] [board_logger] [trace] Board object created 37
+[2022-11-22 14:25:03.056] [board_logger] [debug] Library is loaded
+[2022-11-22 14:25:03.056] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 14:25:04.171] [board_logger] [debug] start streaming
+[2022-11-22 14:33:01.339] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 14:33:01.339] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 14:33:01.339] [board_logger] [trace] Board object created 37
+[2022-11-22 14:33:01.343] [board_logger] [debug] Library is loaded
+[2022-11-22 14:33:01.343] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 14:33:01.770] [board_logger] [debug] start streaming
+[2022-11-22 14:33:29.034] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 14:33:29.034] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 14:33:29.034] [board_logger] [trace] Board object created 37
+[2022-11-22 14:33:29.037] [board_logger] [debug] Library is loaded
+[2022-11-22 14:33:29.037] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 14:33:29.462] [board_logger] [debug] start streaming
+[2022-11-22 14:36:34.021] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 14:36:34.021] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 14:36:34.021] [board_logger] [trace] Board object created 37
+[2022-11-22 14:36:34.024] [board_logger] [debug] Library is loaded
+[2022-11-22 14:36:34.024] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 14:36:34.510] [board_logger] [debug] start streaming
+[2022-11-22 14:38:51.909] [board_logger] [info] incoming json: {"file":"","file_anc":"","file_aux":"","ip_address":"","ip_address_anc":"","ip_address_aux":"","ip_port":0,"ip_port_anc":0,"ip_port_aux":0,"ip_protocol":0,"mac_address":"F4:0E:11:75:8D:9F","master_board":-100,"other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2022-11-22 14:38:51.909] [board_logger] [debug] use dyn lib: C:\Users\Esteban Romero\Downloads\Fall geis\BrainFlowBluetooth.dll
+[2022-11-22 14:38:51.909] [board_logger] [trace] Board object created 37
+[2022-11-22 14:38:51.912] [board_logger] [debug] Library is loaded
+[2022-11-22 14:38:51.912] [board_logger] [info] Use bluetooth port: 1
+[2022-11-22 14:38:52.348] [board_logger] [debug] start streaming
